@@ -13,13 +13,13 @@ A seed scheduling algorithm for testing Go language compilers based on coverage
 
 ### File Structure
 
--Go compiler source code
+- Go compiler source code
 	- src
-		-goroot
-			-codet5
-				-run.py # 种子调度脚本
-				-script.py # run.py中调用的脚本
-				-cal.py # run.py中调用的脚本
-				-origin_data.json # 初始测试样例
+		- goroot
+			- codet5
+				- run.py # 种子调度脚本
+				- script.py # run.py中调用的脚本
+				- cal.py # run.py中调用的脚本
+				- origin_data.json # 初始测试样例
 ### Update
--6.4 完成每一条测试样例的计算覆盖率部分
+- 6.4 完成每一条测试样例的计算覆盖率部分
