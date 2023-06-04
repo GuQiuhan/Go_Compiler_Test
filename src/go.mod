@@ -1,13 +1,11 @@
-module std
+module mydomain.com
 
 go 1.20
 
-require (
-	golang.org/x/crypto v0.3.1-0.20221117191849-2c476679df9a
-	golang.org/x/net v0.4.1-0.20230214201333-88ed8ca3307d
-)
+require rsc.io/quote v1.5.2
 
 require (
-	golang.org/x/sys v0.3.0 // indirect
-	golang.org/x/text v0.5.0 // indirect
+	github.com/google/gofuzz v1.2.0 // indirect
+	golang.org/x/text v0.0.0-20170915032832-14c0d48ead0c // indirect
+	rsc.io/sampler v1.3.0 // indirect
 )

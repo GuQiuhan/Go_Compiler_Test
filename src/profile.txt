@@ -1,0 +1,2 @@
+mode: set
+/bigdata/qiuhan/codet5/usage/goroot/src/hello.go:5.13,7.2 1 1
