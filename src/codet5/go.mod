@@ -443,6 +443,7 @@ require (
 	github.com/viant/toolbox v0.34.5
 	github.com/vmware-tanzu/velero v1.11.0
 	github.com/vmware/govmomi v0.30.0
+	github.com/vmware/vsphere-storage-for-docker v0.0.0-20200112171125-96d2ce724570
 	github.com/voidsand/vblog v0.0.0-20161217085433-d6b9c17b450b
 	github.com/vulcand/oxy v1.4.2
 	github.com/watermint/toolbox v0.6.0
